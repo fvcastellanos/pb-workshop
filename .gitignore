@@ -1,0 +1,35 @@
+pb_data/
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of the go coverage tool
+*.out
+
+# Go workspace file
+go.work
+
+# Go modules
+go.sum
+
+# Vendor directory
+/vendor/
+
+# Dependency directories
+/bin/
+/pkg/
+/Godeps/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
